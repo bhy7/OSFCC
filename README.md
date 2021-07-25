@@ -66,6 +66,7 @@
 |  [简体中文完整字体包](https://github.com/Magisk-Modules-Grave/chinesesimplified-font-completion) | [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) | NotoSerif+ | 宋 | 2 | 〃 | ✓ |  | ✓ | ✓ |
 |  〃 | 〃 | Roboto+ | 黑 | 6 | 〃 | ✓ |  | ✓ | ✓ |
 |  〃 | 〃 | Roboto Condensed+ | 黑  | 4 | 〃 | ✓ |  | ✓ | ✓ |
+|  [Klee](https://github.com/fontworks-fonts/Klee) | [lxgw](https://github.com/lxgw) | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | 楷  | 1 | 〃 | ✓ |  | ✓ |  |
 |  [花园明朝体](http://fonts.jp/hanazono/) | GlyphWiki | 花园明朝体 | 宋 | 1 | [Hanazono Font License & SIL Open Font License, Version 1.1](http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE) | ✓ | ✓ | ✓ | ✓ |
 |  [GNU Unifont](http://unifoundry.com/unifont/index.html) | GNU Unifont | GNU Unifont | 艺 | 1 | [GNU GPLv2](http://unifoundry.com/LICENSE.txt) | ✓ | ✓ | ✓ | ✓ |
 |  文泉驿 | 「文泉驿」开发小组 | [文泉驿微米黑](http://wenq.org/wqy2/index.cgi?MicroHei) | 黑 | 1 | [GNU GPLv3 & Apache 2.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ | ✓ | ✓ | ✓ |
